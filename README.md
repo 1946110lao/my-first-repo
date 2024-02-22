@@ -1,4 +1,4 @@
-# my-first-repo
+# MinorDataVis
 
 [Zuyd](https://www.zuyd.nl)
 
