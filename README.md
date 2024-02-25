@@ -1,5 +1,6 @@
-# MinorDataVis
-## Opdracht D "Intro and Web basics"
+# MinorDataVis Opdrachten
+## Week 1: Intro and basics
+### Opdracht D: My first repo
 
 [Link naar Zuyd](https://www.zuyd.nl)
 
